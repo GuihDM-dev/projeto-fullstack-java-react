@@ -1,1 +1,1 @@
-Hi! this is a freecodecamp based project, it`s  avaible on their youtube.
+Hi! this is a freecodecamp based project, its  avaible on their youtube.
