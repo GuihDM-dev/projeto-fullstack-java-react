@@ -1,1 +1,1 @@
-Olá esse projeto foi feito baseado num projeto fullstack do freecodecamp.
+Hi! this is a freecodecamp based project, it`s  avaible on their youtube.
