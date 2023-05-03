@@ -1,0 +1,1 @@
+Olá esse projeto foi feito baseado num projeto fullstack do freecodecamp.
